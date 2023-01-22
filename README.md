@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imabhijadhav18" target="blank"><img src="https://img.shields.io/twitter/follow/imabhijadhav18?logo=twitter&style=for-the-badge" alt="imabhijadhav18" /></a> </p>
 
-- 🔭 I’m currently working on [Evs Slot Booking](https://github.com/abhijadhav18/EV-s-Slot-Booking)
+- 🔭 I’m currently working on [Evs Slot Booking System](https://github.com/abhijadhav18/EV-s-Slot-Booking)
 
 - 💬 Ask me about **Java , AngularJS , ReactJS**
 
