@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Evs Slot Booking System](https://github.com/abhijadhav18/EV-s-Slot-Booking)
 
-- 💬 Ask me about **Java , AngularJS , ReactJS**
+- 💬 Ask me about **Java **
 
 - 📫 How to reach me **workwithabhishekjadhav@gmail.com**
 
